@@ -2,7 +2,7 @@
   "name": "add-to-calendar-buttons",
   "version": "1.0.0",
   "description": "A simple JS library that enables you to add an \"add to calendar\" button for your upcoming events.",
-  "main": "add-to-calendar.js",
+  "main": "add-to-calendar.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
